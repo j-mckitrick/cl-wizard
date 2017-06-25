@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<wizard>
+    <db server="ameriflex.info" database="dbaf_sidewinder" username="sidewinder_front" password="(32p9v209$4652">
+
+    </db>
+    <backend language="php" sprocs="yes">
+
+    </backend>
+</wizard>
